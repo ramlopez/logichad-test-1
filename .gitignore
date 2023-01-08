@@ -1,3 +1,12 @@
+## ----------------------------------------------------------------------------
+## This project's additions:
+# IDE files that should not be submitted (add more if your IDEs create more)
+*.code-workspace
+
+
+## ----------------------------------------------------------------------------
+## GitHub's .gitignore template for Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
